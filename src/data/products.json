@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "name": "Red Bench",
+      "category": "people",
+      "price": 3.89,
+      "currency": "USD",
+      "image": {
+        "src": "red_bench",
+        "alt": "Red Bench"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_2",
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "egg_balloon",
+        "alt": "Egg Balloon"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_3",
+      "name": "Man",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "man",
+        "alt": "Man"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_4",
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "architecture",
+        "alt": "Architecture"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_5",
+      "name": "Confused Dog",
+      "category": "pets",
+      "price": 50,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "confused_dog",
+        "alt": "Confused Dog"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_6",
+      "name": "Red Snake",
+      "category": "pets",
+      "price": 150,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "red_snake",
+        "alt": "Red Snake"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_7",
+      "name": "Casablanca",
+      "category": "cities",
+      "price": 130,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "casablanca",
+        "alt": "Casablanca"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_8",
+      "name": "A Certain Rabbit",
+      "category": "pets",
+      "price": 160,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "a_certain_rabbit",
+        "alt": "A Certain Rabbit"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_9",
+      "name": "Donuts Tower",
+      "category": "food",
+      "price": 45,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "donuts_tower",
+        "alt": "Donuts Tower"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_10",
+      "name": "Frozen Land",
+      "category": "landmarks",
+      "price": 120,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "frozen_land",
+        "alt": "Frozen Land"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_11",
+      "name": "Statue of Liberty",
+      "category": "landmarks",
+      "price": 80,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "statue_of_liberty",
+        "alt": "Statue Of Liberty"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_12",
+      "name": "Tokyo Tower",
+      "category": "landmarks",
+      "price": 180,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "tokyo_tower",
+        "alt": "Tokyo Tower"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_13",
+      "name": "Under The Sea",
+      "category": "nature",
+      "price": 70,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "under_the_sea",
+        "alt": "Under The Sea"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_14",
+      "name": "Wonderful Family",
+      "category": "people",
+      "price": 200,
+      "currency": "USD",
+      "dimensions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "wonderful_family",
+        "alt": "Wonderful Family"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": "prod_15",
+      "name": "Samurai King Resting",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "samurai_king_resting",
+        "alt": "Samurai King Resting"
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "dimensions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely, so I am going to say something here to make the description section shows at least multiple lines to test the Justify text style",
+
+        "recommendations": [
+          {
+            "src": "egg_balloon",
+            "alt": "Recommended: Egg Balloon"
+          },
+          {
+            "src": "red_snake",
+            "alt": "Recommended: Red Snake"
+          },
+          {
+            "src": "frozen_land",
+            "alt": "Recommended: Frozen Land"
+          }
+        ]
+      }
+    }
+  ]
+}

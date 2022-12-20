@@ -1,0 +1,45 @@
+.navbar {
+  border-bottom: 4px solid #E4E4E4;
+  padding: 15px;
+}
+
+.logo {
+    height: 25.22px;
+    width: 159px;
+}
+
+.cart {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+}
+
+.logo-wrapper,
+.cart-wrapper {
+    display: flex;
+}
+
+.logo-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: start;
+}
+
+.cart-wrapper {
+    justify-content: end;
+}
+
+.cart-section {
+    position: relative;
+}
+
+.cart-badge {
+    background: #000;
+    bottom: -10px;
+    color: #fff;
+    font-size: 14px;
+    height: 20px;
+    position: absolute;
+    right: -10px;
+    width: 20px;
+}

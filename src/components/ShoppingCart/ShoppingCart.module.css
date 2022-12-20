@@ -1,0 +1,15 @@
+.shopping-cart-btn {
+    border-radius: 0 !important;
+}
+
+.cart-list-section {
+    background: white;
+    border: 4px solid #E4E4E4;
+    min-height: 71px;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    top: 40px;
+    width: 219px;
+    z-index: 1;
+}

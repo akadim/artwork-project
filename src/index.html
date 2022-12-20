@@ -1,0 +1,35 @@
+<script>
+    const calculator = (numbers, operation) => {
+        switch (operation) {
+            case 'addition': return numbers.reduce((result, number) => {
+                return result + number;
+            }, numbers[0]);
+        }
+    }
+
+    document.querySelector('#calculator').addEventListener('change', (event) => {
+          let operation = event.target.value;
+          let numbers = operation.split('+');
+
+          let sum = 0;
+
+          // Calculator: 33+10+5
+          numbers.forEach(number => {
+              sum += parseFloat(number);
+          });
+
+          // Result: 48
+          console.log('Sum of Numbers = ', sum);
+    });
+
+</script>
+
+<table style="display: flex; align-content: center; justify-content: center;">
+    <input type="text" name="calculator" id="calculator" />
+</table>
+
+<script>
+    document.querySelector('#phone').addEventListener('change', (event) => {
+       event.target.value = event.target.value.toFixed(2);
+    });
+</script>

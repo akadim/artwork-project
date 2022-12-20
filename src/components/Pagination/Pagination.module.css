@@ -1,0 +1,12 @@
+.pagination-link {
+    color: #B4B4B4;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.pagination-link.active {
+    color: #000;
+    font-weight: bold;
+}
