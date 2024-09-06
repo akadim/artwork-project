@@ -1,4 +1,4 @@
-# Bohemia Artworks Project
+# Artworks Project
 
 a Proof of Concept for an Ecommerce website react by React+Typescript
 
